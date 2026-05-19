@@ -38,3 +38,15 @@ AI may be used to support literature screening, summarization, and organization,
 Post-publication peer review is not an attack on authors.
 
 It is a reader’s contribution to the accuracy, transparency, and interpretability of the scholarly record.
+
+## Note on AI and Reviewer Education
+
+This toolkit does not assume that AI can replace human reading, judgment, or reviewer training.
+
+Post-publication peer review requires careful human reading. Readers should examine the article itself, including the research question, conceptual definitions, methods, measurements, interpretation, funding statements, and conflict-of-interest disclosures.
+
+Using AI to perform the entire review process may undermine reviewer education. If students, trainees, or early-career researchers rely on AI-generated judgments without reading the article themselves, they may lose the opportunity to develop critical scholarly judgment.
+
+However, in an era of information overload, AI tools may help readers identify candidate articles, organize bibliographic information, extract disclosure statements, summarize sections for preliminary review, and reduce the risk of overlooking relevant issues.
+
+AI should therefore be used as a support tool for human review, not as a substitute for scholarly reading.
